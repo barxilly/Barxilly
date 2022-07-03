@@ -60,14 +60,14 @@
   <a href="https://wikipedia.org/wiki/CSS">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <a href="developer.twitter.com">
+    <img src="https://img.shields.io/badge/Twitter%20API-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 
   <br>
 
-  <a href="https://www.qt.io/">
-    <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white">
+  <a href="https://discord.com/developers/applications">
+    <img src="https://img.shields.io/badge/Discord%20Dev-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
