@@ -72,23 +72,23 @@
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   </a>
-  <a href="https://docs.microsoft.com/ru-ru/contribute/markdown-reference">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+  <a href="https://yarnpkg.com/">
+    <img src="https://img.shields.io/badge/Yarn-%23749263.svg?style=for-the-badge&logo=yarn&logoColor=white">
   </a>
 
   <br>
 
-  <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <a href="https://docs.microsoft.com/en-us/powershell/">
+    <img src="https://img.shields.io/badge/Powershell-%23012456.svg?style=for-the-badge&logo=powershell&logoColor=white">
   </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <a href="https://www.oculus.com/">
+    <img src="https://img.shields.io/badge/Oculus-%23ed774e.svg?style=for-the-badge&logo=oracle&logoColor=white">
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-  <a href="https://www.sqlite.org/">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  <a href="https://www.repl.it/">
+    <img src="https://img.shields.io/badge/Repl.it-%2356676E.svg?style=for-the-badge&logo=replit&logoColor=white">
   </a>
 
   <br>
