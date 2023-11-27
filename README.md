@@ -1,6 +1,4 @@
-<h1 id="header">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Serif&color=888888&size=40&center=true&vCenter=true&lines=Ben+Smith;Barxilly;Ben+Walker">
-</h1>
+This account is shared by 2 twats; Deal with it.
 
 <!-- Add Line -->
 <p align="center">
